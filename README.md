@@ -1,88 +1,87 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,45:161B22,100:6C63FF&text=Samuel&fontColor=F0F6FC&fontSize=58&fontAlignY=36&desc=Developer%20%7C%20Builder%20%7C%20Always%20learning&descAlignY=57&descSize=17&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=235&color=0:0D1117,45:161B22,100:6C63FF&text=Samuel&fontColor=F0F6FC&fontSize=58&fontAlignY=35&desc=Developer%20%7C%20Web%20%7C%20Systems%20%7C%20Product&descAlignY=57&descSize=17&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=8B8BFF&center=true&vCenter=true&width=760&lines=Software+Development;Web+Development;Turning+ideas+into+real+projects;Learning.+Building.+Improving." alt="Typing SVG" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=FXSamuel&label=PROFILE+VIEWS&style=for-the-badge&color=6C63FF" alt="Profile views" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2400&pause=850&color=8B8BFF&center=true&vCenter=true&width=760&lines=Building+useful+things.;From+idea+to+interface.;Learning+by+shipping.;Make+it+work.+Then+make+it+better." alt="Animated intro" />
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## About
 
 ```javascript
 const samuel = {
-  location: "Brazil 🇧🇷",
-  role: "Developer",
-  focus: ["Software Development", "Web Development", "Problem Solving"],
-  learning: ["Java", "JavaScript", "MySQL"],
-  mindset: "Learn. Build. Improve. Repeat."
+  location: "Brazil",
+  focus: ["Web Development", "Software", "Product"],
+  stack: ["Java", "JavaScript", "MySQL", "HTML", "CSS"],
+  currently: "building, testing and improving real projects",
+  mindset: "make it work, understand it, then make it better"
 };
 ```
 
-Gosto de transformar ideias em **projetos reais**, aprender tecnologia construindo na prática e melhorar cada versão do que faço.
+I like learning by building.
 
-Atualmente meu foco está em desenvolvimento web, lógica de programação, banco de dados e construção de soluções que tenham utilidade de verdade.
+Most of what I study ends up becoming a project, an interface, a system or an idea that I try to push a little further than the first version.
 
-> **Não quero só entender como a tecnologia funciona. Quero usar tecnologia para construir coisas que importam.**
+My current focus is on web development, programming logic, databases and creating software that is useful outside of the code editor.
 
 ---
 
-## ⚡ Tech Stack
+## Stack
 
 <div align="center">
 
-### Linguagens & Web
+<img src="https://skillicons.dev/icons?i=java,js,c,html,css,mysql,git,github,vscode&theme=dark" alt="Tech stack" />
 
-<img src="https://skillicons.dev/icons?i=java,js,c,html,css&theme=dark" alt="Tech stack" />
+</div>
 
-### Banco de dados & Ferramentas
+<br/>
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" alt="Tools" />
+<div align="center">
+
+`Java` &nbsp; `JavaScript` &nbsp; `C` &nbsp; `HTML` &nbsp; `CSS` &nbsp; `MySQL` &nbsp; `Git`
 
 </div>
 
 ---
 
-## 🚀 No que estou trabalhando
+## Selected work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏙️ Visibiliza
+### Visibiliza
 
-Projeto voltado para **participação cidadã e problemas urbanos**, buscando aproximar tecnologia e gestão pública.
+A civic-tech project focused on making urban problems more visible and easier to report.
 
-**Ideias centrais**
-- Reporte de problemas urbanos
-- Organização de ocorrências
-- Participação cidadã
-- Interface acessível
-- Impacto no mundo real
+**Main ideas**
 
-`Civic Tech` `Web Development` `UX`
+- Citizen reports
+- Urban issue visualization
+- Accessible interfaces
+- Better organization of local information
+- Technology applied to a real public problem
+
+`Civic Tech` `Web` `UX` `Product`
 
 </td>
 <td width="50%" valign="top">
 
-### 💻 Evolução constante
+### MVM
 
-Tenho usado meus projetos para aprofundar:
+A digital project focused on presenting a real business with a cleaner and more professional online presence.
 
-- Lógica de programação
-- Java
-- Desenvolvimento web
-- Banco de dados
-- Git & GitHub
-- UI/UX
-- Estruturação de produtos digitais
+**Main ideas**
 
-**Objetivo:** construir algo melhor a cada projeto.
+- Business website
+- Visual identity
+- Responsive interface
+- Clear presentation of services
+- Practical web development
+
+`Web Development` `UI` `Business`
 
 </td>
 </tr>
@@ -90,43 +89,38 @@ Tenho usado meus projetos para aprofundar:
 
 ---
 
-## 📊 GitHub Analytics
+## Current direction
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=FXSamuel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" alt="GitHub stats" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FXSamuel&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=FXSamuel&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub streak" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2300&pause=700&color=9EA4FF&center=true&vCenter=true&width=760&lines=Improving+Java+and+programming+logic;Building+better+web+interfaces;Learning+databases+in+practice;Turning+ideas+into+finished+projects" alt="Current focus animation" />
 
 </div>
 
----
-
-## 🎯 Foco atual
-
 ```text
-🌐 Construir projetos web reais
-☕ Evoluir em Java
-🗄️ Aprofundar banco de dados
-🧠 Fortalecer lógica de programação
-🎨 Criar interfaces cada vez melhores
-🚀 Transformar ideias em software útil
+01  Build projects that solve something
+02  Improve fundamentals before chasing complexity
+03  Learn tools by actually using them
+04  Treat design and code as parts of the same product
+05  Make every project better than the previous one
 ```
 
 ---
 
+## How I like to build
+
+I care about projects that feel intentional.
+
+Not just code that runs, but something with a clear idea, a usable interface and enough polish that another person can open it and understand what it is supposed to do.
+
+That usually means iterating a lot, changing details and refusing to leave everything in the "good enough" stage.
+
+---
+
 <div align="center">
 
-### Build. Learn. Improve. Repeat.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1200&color=8B8BFF&center=true&vCenter=true&width=700&lines=Build.+Learn.+Improve.+Repeat.;Good+software+is+built+in+iterations." alt="Footer animation" />
 
-<sub>Code is easy to write. Good software is harder. That's the interesting part.</sub>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,45:161B22,100:6C63FF" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,45:161B22,100:6C63FF&animation=fadeIn" />
 
 </div>
