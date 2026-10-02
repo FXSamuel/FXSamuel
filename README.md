@@ -1,13 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=235&color=0:0D1117,45:161B22,100:6C63FF&text=Samuel&fontColor=F0F6FC&fontSize=58&fontAlignY=35&desc=Developer%20%7C%20Web%20%7C%20Systems%20%7C%20Product&descAlignY=57&descSize=17&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=235&color=0:0D1117,45:161B22,100:6C63FF&text=Samuel%20Tomedi&fontColor=F0F6FC&fontSize=58&fontAlignY=35&desc=Developer%20%7C%20Web%20%7C%20Systems%20%7C%20Product&descAlignY=57&descSize=17&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2400&pause=850&color=8B8BFF&center=true&vCenter=true&width=760&lines=Building+useful+things.;From+idea+to+interface.;Learning+by+shipping.;Make+it+work.+Then+make+it+better." alt="Animated intro" />
 
 <br/>
 
 <a href="https://www.linkedin.com/in/samuel-machado-tomedi-95a7192a9/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Samuel%20Machado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Samuel%20Tomedi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 </div>
